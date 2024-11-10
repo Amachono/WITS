@@ -9,5 +9,5 @@ Credits to ``chatgpt-3.5,chatgpt-4.0``
 
 Main code that you should to execute:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Amachono/WITS/refs/heads/main/XFuscator%20%5BObfuscated%5D.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Amachono/WITS/refs/heads/main/obfuscated.lua"))()
 ```
